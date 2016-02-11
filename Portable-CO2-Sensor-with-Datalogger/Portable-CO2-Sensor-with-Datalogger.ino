@@ -3,6 +3,7 @@
  and logs the data in a .txt file on an SD Card. 
  =============================================================
  
+ This sketch was created by combining these sketches:
  / 1 / Test CO2 Sensor sketch by Andrew Pelling
  https://github.com/pellinglab/DIY-Incubator-Dec2014/blob/master/Test_CO2_Sensor/Test_CO2_Sensor.ino
  / 2 / SD card datalogger sketch by Tom Igoe
@@ -13,6 +14,7 @@
  sensor: SPRINTIR WR (0-100%) CO2 sensor [GC-0018]
  http://www.co2meter.com/collections/co2-sensors/products/sprintir-100-percent-co2-sensor
  SD shield: Seeduino SDCard Shield v4.0 [16GB microSDHC] 
+ http://www.seeedstudio.com/wiki/SD_Card_shield_V4.0 
  
  */
 
